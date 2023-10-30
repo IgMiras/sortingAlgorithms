@@ -1,0 +1,4 @@
+RecursionError: maximum recursion depth exceeded
+
+Erro de estouro da pilha de recursão, até mesmo para
+a execução com 1000 elementos.
